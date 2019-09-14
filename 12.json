@@ -1,0 +1,18 @@
+[
+    {
+        "nombres":"Juan Alberto",
+        "apellidos": "Tamayo Jiménez",
+        "edad": 32,
+        "profesion":"programadora",
+        "email": "jualtaji@gmail.com",
+        "inscrita": true
+    },
+    {
+        "nombres":"Petra",
+        "apellidos": "Torres Matute",
+        "edad": 32,
+        "profesion":"programadora",
+        "email": "petoma@gmail.com",
+        "inscrita": true
+    }
+]

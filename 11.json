@@ -1,0 +1,8 @@
+{
+    "nombres":"Juan Alberto",
+    "apellidos": "Tamayo Jiménez",
+    "edad": 32,
+    "profesion":"programadora",
+    "email": "jualtaji@gmail.com",
+    "inscrita": true
+}
